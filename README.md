@@ -17,7 +17,7 @@ https://alpaca.markets/
 # Data
 This notebook pulls data using an Alpaca API call via the Alpaca SDK to get historical share price data for use in Monte Carlo simulations. 
 
-This notebook pulls data using a Crypto API provided by alternative.me . 
+This notebook pulls data using a Crypto API provided by alternative.me to get historical crypto price data. 
 
 # Usability
 This report imports the MCSimulation method contained in the MCForecastTools file. 
